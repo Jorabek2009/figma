@@ -1,0 +1,147 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-family: 'Poppins';
+}
+header{
+    background-color: black;
+    max-width: 1440px;
+}
+.section1{
+    margin-left: 165px;
+    margin-right: 165px;
+}
+.section1 nav ul{
+    display: flex;
+    margin-left: 649px;
+    margin-top: 38px;
+}
+
+.section1 nav {
+    display: flex;
+    justify-content: space-around;
+}
+.section1 nav ul li a{
+    width: 49px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 38px;
+    margin-left: 40px;
+}
+.section1 nav ul li .home{
+    color: #EEBF63;
+}
+.section1 nav .rey{
+    position: absolute;
+    width: 121px;
+    height: 33px;
+    left: 165px;
+    top: 33px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    
+}
+.our{
+    font-size: 38px;
+    margin-top: 50px;
+}
+.pro{
+    margin-top: -40px;
+    font-size: 38px;
+}
+
+.section1 .web .we{
+    color: #EEBF63;
+    text-decoration: underline #EEBF63;
+    margin-left: 0;
+}
+.section1 .web h1{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.section1 .web{
+    display: flex;
+}
+
+.section4{
+    display: flex;
+    margin-top: 59px;
+}
+.section4 .left{
+    margin-left: 165px;
+    margin-right: 30px;
+}
+.section4 .katta{
+    display: flex;
+    
+}
+.section4 .katta .eye{
+    margin-left: 50px;
+    margin-right: 12px;
+}
+.section4 .katta .case{
+    margin-right: 12px;
+}
+
+
+.section6{
+    width: 1110px;
+    height: 224px;
+    background-color: #CD921E;
+    border-radius: 25px;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 165px;
+}
+.section6 .left p{
+    font-size: 45px;
+    margin-top: 50px;
+    margin-left: 75px;
+    width: 457px;
+    height: 124px;
+}
+.section6 .div1 img{
+    margin-left: 230px;
+    margin-top:77px ;
+}
+
+
+article{
+    height: 263px;
+    width: 1440;
+    background-color: #000;
+    display: flex;
+    justify-content:space-around;
+}
+article .left p{
+    font-size: 36px;
+}
+article .midle i{
+    font-size: 34px;
+    margin-left: 10px;
+    margin-top: 59px;
+}
+article .midle img{
+    margin-left: 10px;
+}
+article .left{
+    margin-top: 10px;
+}
+article .right{
+    margin-top: 50px;
+    font-size: 24px;
+}
+article .right i{
+    margin-left: 10px;
+    color: #6FC2C5;
+}
+
+

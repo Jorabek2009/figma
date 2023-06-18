@@ -1,0 +1,158 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-family: 'Poppins';
+}
+header{
+    background-color: black;
+    max-width: 1440px;
+}
+
+
+.section1 nav ul{
+    display: flex;
+    margin-left: 649px;
+    margin-top: 38px;
+}
+
+.section1 nav {
+    display: flex;
+    justify-content: space-around;
+}
+.section1 nav ul li a{
+    width: 49px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 38px;
+    margin-left: 40px;
+}
+.section1 nav ul li .home{
+    color: #EEBF63;
+}
+.section1 nav .rey{
+    position: absolute;
+    width: 121px;
+    height: 33px;
+    left: 165px;
+    top: 70px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    
+}
+
+.section1 .year{
+    display: flex;
+}
+.section1 .yee{
+    margin-left: 165px;
+    margin-top: 52px;
+}
+.section1 .yer{
+    margin-right: 36px;
+}
+.section1 p{
+    margin-top:-20px ;
+}
+h3{
+    width: 1100px;
+    margin-left: 165px;
+    border: 3px solid #2F2F2F;
+}
+h3:hover{
+    border: 3px solid blue;
+}
+.section1 img{
+    margin-left: 165px;
+    margin-top: 30px;
+}
+.section1 .abaut{
+    margin-left: 165px;
+    font-size: 32px;
+}
+.section1 .lorem{
+    margin-left: 165px;
+    margin-right: 165px;
+}
+
+
+
+.section2{
+    margin-left: 165px;
+    margin-right: 165px;
+}
+.section2 img{
+    margin-top: 50px;
+}
+.section2 h1{
+    font-size: 32px;
+}
+.section2 .final{
+    text-align: center;
+    font-size: 16px;
+}
+.section2 h3{
+    width: 1100px;
+    border: 3px solid #2F2F2F;
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+
+
+
+.section3{
+    margin-left: 165px;
+    margin-right: 165px;
+}
+.section3 h1{
+    font-size: 32px;
+}
+.section3 .katta{
+    display: flex;
+    margin-top: 30px;
+}
+.section3 .katta .img1{
+    margin-left: 50px;
+}
+
+
+article{
+    height: 163px;
+    width: 1440;
+    background-color: #000;
+    display: flex;
+    justify-content:space-around;
+}
+article .left p{
+    font-size: 36px;
+}
+article .midle i{
+    font-size: 34px;
+    margin-left: 10px;
+    margin-top: 59px;
+}
+article .midle img{
+    margin-left: 10px;
+}
+article .left{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+article .right{
+    margin-top: 50px;
+    font-size: 24px;
+}
+article .right i{
+    margin-left: 10px;
+    color: #6FC2C5;
+}
+
+
